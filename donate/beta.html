@@ -1,0 +1,16 @@
+<div id="container">
+  <h1>Hello, world!</h1>
+  <h4>Input your console data below : </h4>
+  <form action="" id="form" onsubmit="sConsole(event)">
+    <input type="text" name="data" id="data">
+    <button type="submit">Submit</button>
+  </form>
+</div>
+<script>
+function sConsole(event) {
+  event.preventDefault();
+  var paypal = document.getElementById("data");
+  console.log(paypal.value);
+  
+}
+</script>

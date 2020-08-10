@@ -1,0 +1,20 @@
+/*CSS Script that need to be updated on all 3 services
+CliftonOfficial
+CliftonOfficial-m
+CliftonNews
+*/
+#bannerimage {
+  width: 100%;
+  background-image: url(https://cdn.glitch.com/b9c8624e-b02f-4b53-94b2-0364fc2ad3d7%2FUntitled47_20200720231243.png?v=1595301295021);
+  height: 163px;
+  background-color: purple;
+  background-position: center;
+}
+
+#bannerimage-m {
+  width: 100%;
+  background-image: url(https://cdn.glitch.com/b9c8624e-b02f-4b53-94b2-0364fc2ad3d7%2FUntitled47_20200720231243.png?v=1595301295021);
+  height: 163px;
+  background-color: purple;
+  background-position: center;
+}

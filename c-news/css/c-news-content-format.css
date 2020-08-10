@@ -1,0 +1,46 @@
+
+.thumbnail{
+  padding: 0px;
+  
+}
+.header {
+  padding: 10px;;
+  
+}
+.content1 {
+  padding: 10px;
+  background-color: #c4c3c0;
+}
+.content2 {
+  padding: 10px;
+  background-color: #999896;
+}
+.content3 {
+  padding: 10px;
+  background-color: #636362;
+}
+.imageholder1{
+  padding: 10px;
+}
+.imageholder2{
+  padding: 10px;
+}
+.imageholder3{
+  padding: 10px;
+}
+
+
+/* Style the footer */
+.footer {
+  
+  padding: 10px;
+  height:50px;
+  
+}
+.creatorinfo {
+  background-color:rgb(204, 204, 204, 0.15);
+  padding: 10px;
+  height:50px;
+  position: relative;
+  top: 330px;
+} 
